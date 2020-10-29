@@ -51,7 +51,7 @@ Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant en co
 
 Revenez à la toute première version de commit sur votre master.
 
-1. [ ] Ajouter un titre H1 dans votre page html
+1. [x] Ajouter un titre H1 dans votre page html
 2. [ ] Créer un CSS :
     1. [ ] Sous-titrer le h1
     2. [ ] Centrer le tout
