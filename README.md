@@ -66,7 +66,7 @@ Revenez à la toute première version de commit sur votre master.
 **Créer une branche _SecondPart_votreNom_ pour sauvegarder ce que vous avez fait**
 
 
-#### Fird part
+#### Third part
 
 Revenez à la toute première version de commit sur votre master.
 Ne créer pas de branche.
