@@ -55,12 +55,13 @@ Revenez à la toute première version de commit sur votre master.
 2. [ ] Créer un CSS :
     1. [ ] Sous-titrer le h1
     2. [ ] Centrer le tout
-3. Créer un tableau JS dans "script.js"
-    1. Il doit contenir 11 entrée (11 légumes)
-    2. Afficher dans la console la première entrée du tableau
-    3. Afficher dans la console la dernière entrée du tableau
-    4. Vérifier que le chiffre au dessus du poème est supérieur à 3000
-4. Effectuer un push vers votre serveur.
+3. [ ] Créer un tableau JS dans "script.js"
+    1. [ ] Il doit contenir 11 entrées (11 légumes)
+    2. [ ] Afficher dans la console la première entrée du tableau
+    3. [ ] Afficher dans la console la dernière entrée du tableau
+    4. [ ] Vérifier que le chiffre au dessus du poème est supérieur à 3000
+4. [ ] Ajouter un tag
+5. [ ] Effectuer un push vers votre serveur.
 
 
 **Créer une branche _SecondPart_votreNom_ pour sauvegarder ce que vous avez fait**
@@ -71,11 +72,12 @@ Revenez à la toute première version de commit sur votre master.
 Revenez à la toute première version de commit sur votre master.
 Ne créer pas de branche.
 
-1. Réeffectuer la _First Part_ jusqu'à l'étape 6.
-2. Réeffectuer la _Second Part_ jusqu'à l'étape 3.
+1. [ ] Réeffectuer la _First Part_ jusqu'à l'étape 6.
+2. [ ] Réeffectuer la _Second Part_ jusqu'à l'étape 3.
 3. [ ] modifications du dernier § : (6 personnes prennent la première modif, les 6 autres la deuxième)
     1. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vielle poule, jeune oie édifiante !
     2. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
-4. Effectuer un push vers votre serveur et le serveur Upstream
+4. [ ] Effectuer un rebase vers votre serveur et le serveur Upstream
+5. [ ] Que pouvez-vous dire de rebase par rapport à un merge ?
 
 **Have fun building!** 🚀
