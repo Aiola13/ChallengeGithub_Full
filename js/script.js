@@ -5,3 +5,9 @@ compteur.innerHTML = poeme.length;
 var legumes = ["patate", "aubergine","carotte", "haricot", "courgette", "citrouille", "lentille", "salades", "chou-fleur", "poivron","betterave"]
 console.log(legumes[0])
 console.log(legumes[10])
+if (compteur.innerHTML > 3000) {
+    console.log("hhhhiiiiii C'est supérieur")
+}
+else {
+    console.log("dommage retente ta chances")
+}
