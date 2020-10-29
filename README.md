@@ -30,17 +30,17 @@ Les logiciels à télécharger :
 Appropriez vous le challenge sur vos machines.
 Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant en collaborateur sans créer de branche.
 
-1. [ ] suppression des 8 premiers paragraphes (jusque "...épiciers?")
-2. [ ] suppression du §4 courant ("Elle ne sentit...")
-3. [ ] suppression du §5 courant ("Aussi, comme...")
-4. [ ] modifications du §5 courant : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
+1. [x] suppression des 8 premiers paragraphes (jusque "...épiciers?")
+2. [x] suppression du §4 courant ("Elle ne sentit...")
+3. [x] suppression du §5 courant ("Aussi, comme...")
+4. [x] modifications du §5 courant : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
     1. [ ] N'avoir aucun... -> Ils n'ont aucun... (Le premier)
-    2. [ ] Posséder pour... -> Possèdent pour… (Le deuxième)
-5. [ ] suppression § 7, 8 et 9 courants (de "Les pigeons, le bec..." à "...des appas ?")
-6. [ ] suppression § 10, 11, 12 et 13 courants (de "Ils sont maigres..." à "...n'abordera jamais.")
-7. [ ] modifications du dernier § : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
+    2. [x] Posséder pour... -> Possèdent pour… (Le deuxième)
+5. [x] suppression § 7, 8 et 9 courants (de "Les pigeons, le bec..." à "...des appas ?")
+6. [x] suppression § 10, 11, 12 et 13 courants (de "Ils sont maigres..." à "...n'abordera jamais.")
+7. [x] modifications du dernier § : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
     1. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vielle poule, jeune oie édifiante !
-    2. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
+    2. [x] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
 8. Effectuer un push vers votre serveur et le serveur distant (de votre binome)
 
 **Créer une branche _FirstPart_votreNom_ pour sauvegarder ce que vous avez fait**
