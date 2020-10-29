@@ -52,9 +52,9 @@ Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant en co
 Revenez à la toute première version de commit sur votre master.
 
 1. [x] Ajouter un titre H1 dans votre page html
-2. [ ] Créer un CSS :
-    1. [ ] Sous-titrer le h1
-    2. [ ] Centrer le tout
+2. [x] Créer un CSS :
+    1. [x] Sous-titrer le h1
+    2. [x] Centrer le tout
 3. Créer un tableau JS dans "script.js"
     1. Il doit contenir 11 entrée (11 légumes)
     2. Afficher dans la console la première entrée du tableau
