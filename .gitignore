@@ -4,6 +4,6 @@
 *.pdf
 *.psd
 *.ai
-*.css
+#*.css
 *.xd
 .DS_Store
