@@ -32,19 +32,19 @@ Les logiciels à télécharger :
 Appropriez vous le challenge sur vos machines.
 Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant respectivement en collaborateur sans créer de branche.
 
-1. [ ] suppression des 8 premiers paragraphes (jusque "...épiciers?")
-2. [ ] suppression du §4 courant ("Elle ne sentit...")
-3. [ ] suppression du §5 courant ("Aussi, comme...")
-4. [ ] modifications du §5 courant : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
+1. [x] suppression des 8 premiers paragraphes (jusque "...épiciers?")
+2. [x] suppression du §4 courant ("Elle ne sentit...")
+3. [x] suppression du §5 courant ("Aussi, comme...")
+4. [x] modifications du §5 courant : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
     1. [ ] N'avoir aucun... -> Ils n'ont aucun... (Le premier)
-    2. [ ] Posséder pour... -> Possèdent pour… (Le deuxième)
-5. [ ] suppression § 7, 8 et 9 courants (de "Les pigeons, le bec..." à "...des appas ?")
-6. [ ] suppression § 10, 11, 12 et 13 courants (de "Ils sont maigres..." à "...n'abordera jamais.")
-7. [ ] modifications du dernier § : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
+    2. [x] Posséder pour... -> Possèdent pour… (Le deuxième)
+5. [x] suppression § 7, 8 et 9 courants (de "Les pigeons, le bec..." à "...des appas ?")
+6. [x] suppression § 10, 11, 12 et 13 courants (de "Ils sont maigres..." à "...n'abordera jamais.")
+7. [x] modifications du dernier § : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
     1. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vielle poule, jeune oie édifiante !
-    2. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
-8. [ ] Effectuer un push vers votre serveur et le serveur distant (de votre binome)
-9. Que pouvez-vous dire sur ce que vous venez de faire ?
+    2. [x] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
+8. Effectuer un push vers votre serveur et le serveur distant (de votre binome)
+
 
 **Créer une branche _FirstPart_votreNom_ qui permettra la correction de ce que vous avez fait**
 
@@ -53,6 +53,7 @@ Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant respe
 
 Revenez à la toute première version de commit sur votre master.
 
+=======
 1. [ ] Ajouter un titre H1 dans votre page html
 2. [ ] Créer un CSS :
     1. [ ] Sous-titrer le h1
@@ -74,14 +75,12 @@ Revenez à la toute première version de commit sur votre master.
 Revenez à la toute première version de commit sur votre master.
 Créer une branche nommée _ThirdPart_votreNom_.
 
-1. [ ] Réeffectuer la _First Part_ jusqu'à l'étape 6.
-2. [ ] Réeffectuer la _Second Part_ jusqu'à l'étape 3.
+1. Réeffectuer la _First Part_ jusqu'à l'étape 6.
+2. Réeffectuer la _Second Part_ jusqu'à l'étape 3.
 3. [ ] modifications du dernier § : (6 personnes prennent la première modif, les 6 autres la deuxième)
     1. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vielle poule, jeune oie édifiante !
     2. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
-4. [ ] Effectuer un rebase vers votre branche master.
-5. Que pouvez-vous dire de rebase par rapport à un merge ?
-6. [ ] Effectuer un Push vers le serveur Origin.
-7. [ ] Effectuons maintenant une Pull Request vers le serveur Upstream.
 
 **Have fun building!** 🚀
+
+Ceci est un test
