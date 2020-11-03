@@ -62,6 +62,7 @@ Revenez à la toute première version de commit sur votre master.
     4. Vérifier que le chiffre au dessus du poème est supérieur à 3000
 4. Effectuer un push vers votre serveur.
 
+Dorian
 
 **Créer une branche _SecondPart_votreNom_ pour sauvegarder ce que vous avez fait**
 
