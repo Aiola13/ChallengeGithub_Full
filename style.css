@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1
 {
     text-decoration: underline black;
@@ -5,4 +6,12 @@ h1
 .centre
 {
     text-align: center;
+=======
+html{
+    text-align: center;
+}
+
+h1{
+    text-decoration:underline;
+>>>>>>> 5e84df7ec6817c3a0d34e7c3929da5c7df8ad239
 }
