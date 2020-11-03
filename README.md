@@ -19,12 +19,10 @@ Créer un répertoire de travail Github et des sous répertoires correspondants 
 À chaque étape, il faut commiter, avec un message explicite de ce que vous avez fait.
 
 N’oubliez pas de faire des recherches sur le Web à chaque fois que cela est nécessaire en prenant soin de vérifier que les informations trouvées soient correctes. (vous pourrez notamment utiliser le site Web https://docs.github.com/ , https://git-scm.com/book/fr/v2 ).
-
 Les logiciels à télécharger : 
 * https://git-scm.com/download/mac
 * https://gitforwindows.org/
 * https://desktop.github.com
-
 
 ### The challenge
 
@@ -48,17 +46,14 @@ Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant respe
 
 **Créer une branche _FirstPart_votreNom_ qui permettra la correction de ce que vous avez fait**
 
-
 #### Second part
 
 Revenez à la toute première version de commit sur votre master.
 
-=======
 1. [ ] Ajouter un titre H1 dans votre page html
 2. [ ] Créer un CSS :
     1. [ ] Sous-titrer le h1
     2. [ ] Centrer le tout
-<<<<<<< HEAD
 3. Créer un tableau JS dans "script.js"
     1. Il doit contenir 11 entrée (11 légumes)
     2. Afficher dans la console la première entrée du tableau

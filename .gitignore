@@ -1,9 +1,6 @@
 ## Ignore all files we don't needed
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 5e84df7ec6817c3a0d34e7c3929da5c7df8ad239
 
 .DS_Store
+README.md
