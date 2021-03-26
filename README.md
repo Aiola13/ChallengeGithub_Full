@@ -32,17 +32,17 @@ Les logiciels à télécharger :
 Appropriez vous le challenge sur vos machines.
 Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant respectivement en collaborateur sans créer de branche.
 
-1. [ ] suppression des 8 premiers paragraphes (jusque "...épiciers?")
-2. [ ] suppression du §4 courant ("Elle ne sentit...")
-3. [ ] suppression du §5 courant ("Aussi, comme...")
-4. [ ] modifications du §5 courant : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
-    1. [ ] N'avoir aucun... -> Ils n'ont aucun... (Le premier)
+1. [X] suppression des 8 premiers paragraphes (jusque "...épiciers?")
+2. [X] suppression du §4 courant ("Elle ne sentit...")
+3. [X] suppression du §5 courant ("Aussi, comme...")
+4. [X] modifications du §5 courant : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
+    1. [X] N'avoir aucun... -> Ils n'ont aucun... (Le premier)
     2. [ ] Posséder pour... -> Possèdent pour… (Le deuxième)
-5. [ ] suppression § 7, 8 et 9 courants (de "Les pigeons, le bec..." à "...des appas ?")
-6. [ ] suppression § 10, 11, 12 et 13 courants (de "Ils sont maigres..." à "...n'abordera jamais.")
-7. [ ] modifications du dernier § : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
+5. [X] suppression § 7, 8 et 9 courants (de "Les pigeons, le bec..." à "...des appas ?")
+6. [X] suppression § 10, 11, 12 et 13 courants (de "Ils sont maigres..." à "...n'abordera jamais.")
+7. [X] modifications du dernier § : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
     1. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vielle poule, jeune oie édifiante !
-    2. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
+    2. [X] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
 8. [ ] Effectuer un push vers votre serveur et le serveur distant (de votre binome)
 9. Que pouvez-vous dire sur ce que vous venez de faire ?
 
