@@ -6,4 +6,5 @@
 *.ai
 *.css
 *.xd
+/.idea/
 .DS_Store

@@ -1,5 +1,8 @@
 # ChallengeGithub - FAQ
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aiola13)
+![Files](https://img.shields.io/github/directory-file-count/Aiola13/ChallengeGithub_Full?style=flat-square)
+![Size](https://img.shields.io/github/repo-size/Aiola13/ChallengeGithub_Full?style=flat-square)
+![lastcommit](https://img.shields.io/github/last-commit/aiola13/ChallengeGithub_Full)
 ![Logo Github utilisé pour la FAQ](./ressources/github.jpg)
 
 ## Welcome HOME! 👋
@@ -25,33 +28,85 @@ Les logiciels à télécharger :
 * https://gitforwindows.org/
 * https://desktop.github.com
 
+Voici quelques mots de vocabulaire :
+* Branch > Créer une branche
+* Push > Pousser vers le répertoire distant
+* Pull > Récupérer dans le répertoire local
+* Commit > Indexer
+* Gihtub a été créé par Linus Torvalds
+* Github est un logiciel de gestion de version (Versioning)
+* git est une commande CLI qui a comme argument :
+   * init
+   * add
+   * merge
+   * commit
+   * push
+   * pull
+   * checkout
+   * clone
+   * ect ...
+
 
 ### The challenge
 
-#### First part
-Appropriez vous le challenge sur vos machines.
-Mettez vous en bînome et modifiez le répertoire de l'autre en s'ajoutant respectivement en collaborateur sans créer de branche.
+#### [BONUS] Répertoire profil
+En premier lieu, créer le répertoire tpgit et se créer un compte Github https://github.com/.
+Ensuite, sécuriser l’accès à votre compte Github via une paire de clés RSA avec cette
+commande.
+```
+ssh-keygen -t rsa -b 4096 -C "votreemail@hebergeur.com"
+```
+Transférer votre clé publique dans votre compte Github.
+Se créer un “répertoire profil” via un README.md via le site github.
+Cloner ce répertoire sur votre machine et modifier le README.md et pusher le sur le serveur
+distant.
 
+#### First part
+L'idée ici est de retracer les étapes qu'aurait effectuées Georges Brassens pour mettre en chanson le poème 'Les oiseaux de passage' de Jean Richepin.
+
+Voici les étapes à effectuer :
+* créer un nouveau dépôt Git.
+* le poème de Richepin est situé dans le fichier html index.html
+
+Appropriez vous le challenge sur vos machines.
+**Créer une branche nommée _FirstPart_votreNom_.**
+
+Modifications à valider :
 1. [ ] suppression des 8 premiers paragraphes (jusque "...épiciers?")
 2. [ ] suppression du §4 courant ("Elle ne sentit...")
 3. [ ] suppression du §5 courant ("Aussi, comme...")
-4. [ ] modifications du §5 courant : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
+4. [ ] modifications du §5 courant (en 2 commits séparés) :
     1. [ ] N'avoir aucun... -> Ils n'ont aucun... (Le premier)
     2. [ ] Posséder pour... -> Possèdent pour… (Le deuxième)
 5. [ ] suppression § 7, 8 et 9 courants (de "Les pigeons, le bec..." à "...des appas ?")
 6. [ ] suppression § 10, 11, 12 et 13 courants (de "Ils sont maigres..." à "...n'abordera jamais.")
-7. [ ] modifications du dernier § : (mettez vous d'accord pour que chacun puisse faire une seule des deux modification)
-    1. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vielle poule, jeune oie édifiante !
-    2. [ ] Regardez-les, vieux coq, jeune oie édifiante ! -> Regardez-les, vieux coq, jeune cigne édifiant !
-8. [ ] Effectuer un push vers votre serveur et le serveur distant (de votre binome)
-9. Que pouvez-vous dire sur ce que vous venez de faire ?
+7. [ ] répétition du dernier §
 
-**Créer une branche _FirstPart_votreNom_ qui permettra la correction de ce que vous avez fait**
+**La branche _FirstPart_votreNom_ permettra la correction de ce que vous avez fait**
+
+
+Usez et abusez de git status, git diff, git log et git show à chaque étape pour bien comprendre ce qu'il se passe !
+Votre historique devrait ressembler à cela:
+```
+496067d répétition du dernier §
+7458110 suppression § 10, 11, 12 et 13
+0e779bd suppression § 7, 8 et 9
+75ec3a0 §5: Posseder pour... -> Possèdent pour...
+d0fc7a3 §5: N'avoir aucun... -> Ils n'ont aucun...
+75f22cf suppression du §5 courant
+3e81e34 suppression du §4 courant
+4329040 Suppression des 8 premiers §
+ca170fa Ajout du poème de Richepin
+```
+1. [ ] Effectuer un Push vers le serveur Origin.
+2. [ ] Effectuons maintenant une Pull Request vers le serveur Upstream.
+
 
 
 #### Second part
 
 Revenez à la toute première version de commit sur votre master.
+**Créer une branche nommée _SecondPart_votreNom_.**
 
 1. [ ] Ajouter un titre H1 dans votre page html
 2. [ ] Créer un CSS :
@@ -66,13 +121,13 @@ Revenez à la toute première version de commit sur votre master.
 5. [ ] Effectuer un push vers votre serveur.
 6. Que pouvez-vous dire sur ce que vous venez de faire ?
 
-**Créer une branche _SecondPart_votreNom_ qui permettra la correction de ce que vous avez fait**
+**La branche _SecondPart_votreNom_ permettra la correction de ce que vous avez fait**
 
 
-#### Third part
+<!--#### Third part
 
 Revenez à la toute première version de commit sur votre master.
-Créer une branche nommée _ThirdPart_votreNom_.
+**Créer une branche nommée _ThirdPart_votreNom_.**
 
 1. [ ] Réeffectuer la _First Part_ jusqu'à l'étape 6.
 2. [ ] Réeffectuer la _Second Part_ jusqu'à l'étape 3.
@@ -82,6 +137,6 @@ Créer une branche nommée _ThirdPart_votreNom_.
 4. [ ] Effectuer un rebase vers votre branche master.
 5. Que pouvez-vous dire de rebase par rapport à un merge ?
 6. [ ] Effectuer un Push vers le serveur Origin.
-7. [ ] Effectuons maintenant une Pull Request vers le serveur Upstream.
+7. [ ] Effectuons maintenant une Pull Request vers le serveur Upstream. -->
 
 **Have fun building!** 🚀
