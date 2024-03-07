@@ -19,11 +19,6 @@ Toujours pour ces gens-là cela n'est point hideux
 Ce canard n'a qu'un bec, et n'eut jamais envie
 Ou de n'en plus avoir ou bien d'en avoir deux.
 
-Aussi, comme leur vie est douce, bonne et grasse !
-Qu'ils sont patriarcaux, béats, vermillonnés,
-Cinq pour cent ! Quel bonheur de dormir dans sa crasse,
-De ne pas voir plus loin que le bout de son nez !
-
 N'avoir aucun besoin de baiser sur les lèvres,
 Et, loin des songes vains, loin des soucis cuisants,
 Posséder pour tout coeur un viscère sans fièvres,
