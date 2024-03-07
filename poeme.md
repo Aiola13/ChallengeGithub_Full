@@ -48,3 +48,8 @@ Regardez-les, vieux coq, jeune oie édifiante !
 Rien de vous ne pourra monter aussi haut qu'eux.
 Et le peu qui viendra d'eux à vous, c'est leur fiente.
 Les bourgeois sont troublés de voir passer les gueux.
+
+Regardez-les, vieux coq, jeune oie édifiante !
+Rien de vous ne pourra monter aussi haut qu'eux.
+Et le peu qui viendra d'eux à vous, c'est leur fiente.
+Les bourgeois sont troublés de voir passer les gueux.
