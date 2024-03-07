@@ -19,7 +19,7 @@ Toujours pour ces gens-là cela n'est point hideux
 Ce canard n'a qu'un bec, et n'eut jamais envie
 Ou de n'en plus avoir ou bien d'en avoir deux.
 
-N'avoir aucun besoin de baiser sur les lèvres,
+Il's n'ont aucun besoin de baiser sur les lèvres,
 Et, loin des songes vains, loin des soucis cuisants,
 Posséder pour tout coeur un viscère sans fièvres,
 Un coucou régulier et garanti dix ans !
